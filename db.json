@@ -1,0 +1,70 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Front-End"
+        },
+        {
+            "id": 2,
+            "name": "Back-End"
+        },
+        {
+            "id": 3,
+            "name": "Mobile"
+        },
+        {
+            "id": 4,
+            "name": "Inovação e Gestão"
+        }
+    ],
+    "videos": [
+        {
+            "id": 1,
+            "title": "O que faz uma desenvolvedora front-end?",
+            "category": "Front-End",
+            "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw",
+            "thumbnail": "https://img.youtube.com/vi/ZY3-MFxVdEw/maxresdefault.jpg",
+            "description": "O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa nesse episódio!"
+        },
+        {
+            "id": 2,
+            "title": "Como deixar o Layout Responsivo no seu site",
+            "category": "Front-End",
+            "url": "https://www.youtube.com/watch?v=kyFiT4ofMwk",
+            "thumbnail": "https://img.youtube.com/vi/kyFiT4ofMwk/maxresdefault.jpg",
+            "description": "Aprenda responsividade na prática com este tutorial sobre como transformar seu site num layout responsivo através do uso de ferramentas de desenvolvedor do seu navegador, o visual studio code e códigos CSS: media screen, container, propriedades CSS e mais."
+        },
+        {
+            "id": 3,
+            "title": "Como testar seu Front-end? com Mario Souto",
+            "category": "Front-End",
+            "url": "https://www.youtube.com/watch?v=CaTbfdsVydE",
+            "thumbnail": "https://img.youtube.com/vi/CaTbfdsVydE/maxresdefault.jpg",
+            "description": "Por onde começar a testar as habilidades em Front-end? Se você tem dúvidas na hora de testar softwares e colocar em prática técnicas modernas, esse vídeo vai te ajudar. O @DevSoutinho compartilhou dicas pra você testar seu Front-end e como praticar testes desde funcionalidades simples até as mais avançadas. Confere aí e conta pra gente se você está testando suas habilidades nessa área e quais bibliotecas costuma usar"
+        },
+        {
+            "id": 4,
+            "title": "Guia de Carreira PHP",
+            "category": "Back-End",
+            "url": "https://www.youtube.com/watch?v=ETohL_o3SEI",
+            "thumbnail": "https://img.youtube.com/vi/ETohL_o3SEI/maxresdefault.jpg",
+            "description": "8º ep. da Temporada! Com o Guia de Carreira PHP, aprenda o que é e para que serve essa linguagem de programação e saiba o que ela faz desde o Back-End até o Front-End (com Desenvolvimento Web). Aqui você encontra uma trilha de estudos do INICIANTE ao AVANÇADO que conta com temáticas como: fundamentos do PHP, array, MySQL, try catch, cURL, if e else, Laravel, JSON, MVC, PDO, Bibliotecas e Frameworks, classes, React PHP, testes e muito mais! Para você que busca por um ROADMAP ou TUTORIAL e se pergunta \"o que é preciso para aprender PHP?\" ou mesmo \"quanto tempo leva para aprender?\", preparamos o Tech Guide, o seu GUIA de Carreira PHP, com Cursos, Formações, Artigos e muito conteúdo para você construir sua profissão em tecnologia."
+        },
+        {
+            "id": 5,
+            "title": "Desenvolvimento Android",
+            "category": "Mobile",
+            "url": "https://www.youtube.com/watch?v=fWscDFHKgw8",
+            "thumbnail": "https://img.youtube.com/vi/fWscDFHKgw8/maxresdefault.jpg",
+            "description": "Um episódio focado no desenvolvimento de aplicações Android. Neste bate-papo, Paulo Silveira e Felipe Torres conversam sobre os primeiros passos para começar a desenvolver, quais as principais ferramentas do desenvolvimento mobile, como colocar sua aplicação no ar e mais!"
+        },
+        {
+            "id": 6,
+            "title": "Desenvolvimento Android",
+            "category": "Inovação e Gestão",
+            "url": "https://www.youtube.com/watch?v=SjY0zj17-8U",
+            "thumbnail": "https://img.youtube.com/vi/SjY0zj17-8U/maxresdefault.jpg",
+            "description": "O que são as Softskills e por que é tão importante desenvolvê-las para se posicionar no mercado de trabalho? Neste Alura+, a Pri Stuani fala sobre as 9 habilidades comportamentais mais buscadas por empresas em seus profissionais e como elas te auxiliam no dia a dia."
+        }
+    ]
+}
