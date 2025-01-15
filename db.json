@@ -38,14 +38,7 @@
             "thumbnail": "https://img.youtube.com/vi/kyFiT4ofMwk/maxresdefault.jpg",
             "description": "Aprenda responsividade na prática com este tutorial sobre como transformar seu site num layout responsivo através do uso de ferramentas de desenvolvedor do seu navegador, o visual studio code e códigos CSS: media screen, container, propriedades CSS e mais."
         },
-        {
-            "id": 3,
-            "title": "Guia de carreira Front-end",
-            "category": "Front-End",
-            "url": "https://www.youtube.com/watch?v=fpth65ts3cw",
-            "thumbnail": "https://img.youtube.com/vi/fpth65ts3cw/maxresdefault.jpg",
-            "description": "Nesse primeiro episódio, confira o que é front-end e como seguir nessa área da tecnologia, através do Tech Guide front-end, um Guia de Estudos do iniciante ao avançado. São 3 níveis de Profundidade e 1 nível de Expansão, formando seu perfil como Dev Front-End em T."
-        },
+        
         {
             "id": 4,
             "title": "Guia de Carreira PHP",
