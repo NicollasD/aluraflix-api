@@ -2,19 +2,23 @@
     "categories": [
         {
             "id": 1,
-            "name": "Front-End"
+            "name": "Front-End",
+            "color": "#6BD1FF"
         },
         {
             "id": 2,
-            "name": "Back-End"
+            "name": "Back-End",
+            "color": "#00C86F"
         },
         {
             "id": 3,
-            "name": "Mobile"
+            "name": "Mobile",
+            "color": "#FFBA05"
         },
         {
             "id": 4,
-            "name": "Inovação e Gestão"
+            "name": "Inovação e Gestão",
+            "color": "#9B51E0"
         }
     ],
     "videos": [
