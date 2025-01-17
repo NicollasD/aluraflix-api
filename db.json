@@ -41,11 +41,11 @@
 
         {
             "id": 3,
-            "title": "Quais são as principais vantagens do Typescript?",
+            "title": "O que é Angular e AngularJS?",
             "category": "Front-End",
-            "url": "https://www.youtube.com/watch?v=snwevp02sIw",
-            "thumbnail": "https://img.youtube.com/vi/snwevp02sIw/maxresdefault.jpg",
-            "description": "Vamos conhecer o superset que potencializa ainda mais a produtividade de quem trabalha com JS. O Typescript! O @DevSoutinho contou pra gente os conceitos dessa ferramenta e quais as principais vantagens de usar o Typescript. E você, tem usado essa linguagem no seu dia a dia?"
+            "url": "https://www.youtube.com/watch?v=LFlNU30u7d8",
+            "thumbnail": "https://img.youtube.com/vi/LFlNU30u7d8/maxresdefault.jpg",
+            "description": "Vanessa Tonini e Mario Souto conversam neste vídeo sobre o Angular  e explicam melhor o que é este framework, como ele surgiu, quando é utilizado e quais são as diferenças entre suas versões. Confira!"
         },
         
         {
@@ -71,6 +71,33 @@
             "url": "https://www.youtube.com/watch?v=SjY0zj17-8U",
             "thumbnail": "https://img.youtube.com/vi/SjY0zj17-8U/maxresdefault.jpg",
             "description": "O que são as Softskills e por que é tão importante desenvolvê-las para se posicionar no mercado de trabalho? Neste Alura+, a Pri Stuani fala sobre as 9 habilidades comportamentais mais buscadas por empresas em seus profissionais e como elas te auxiliam no dia a dia."
+        },
+
+        {
+            "id": 7,
+            "title": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei",
+            "category": "Back-End",
+            "url": "https://www.youtube.com/watch?v=fiPfvylj6rk",
+            "thumbnail": "https://img.youtube.com/vi/fiPfvylj6rk/maxresdefault.jpg",
+            "description": "Afinal, quem trabalha com Back-end faz o que? Com quais outras áreas da tecnologia essa pessoa acaba se relacionando no dia a dia de trabalho e quais os possíveis caminhos nessa carreira? A Juliana Amoasei responde tudo isso pra você no vídeo! Confere aí!"
+        },
+
+        {
+            "id": 8,
+            "title": "Relações interpessoais",
+            "category": "Inovação e Gestão",
+            "url": "https://www.youtube.com/watch?v=Kx5TSu6Z0U8",
+            "thumbnail": "https://img.youtube.com/vi/Kx5TSu6Z0U8/maxresdefault.jpg",
+            "description": "Relações interpessoais: como você pode desenvolver competências para facilitar este processo e melhorar seus relacionamentos? A Priscila Stuani e o Gabriel Ferreira conversam sobre o assunto neste Hipsters.tube."
+        },
+
+        {
+            "id": 9,
+            "title": "Apresentações: como falar sobre si?",
+            "category": "Inovação e Gestão",
+            "url": "https://www.youtube.com/watch?v=MphsmAn8Xmk",
+            "thumbnail": "https://img.youtube.com/vi/MphsmAn8Xmk/maxresdefault.jpg",
+            "description": "Qual é a maneira mais adequada de falar sobre si mesmo? O que a sua comunicação diz a seu respeito? Nesse Alura Mais, vamos ver essas e outras questões com a instrutora Priscila Stuani. Confira!"
         }
     ]
 }
