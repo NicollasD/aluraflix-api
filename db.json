@@ -38,6 +38,15 @@
             "thumbnail": "https://img.youtube.com/vi/kyFiT4ofMwk/maxresdefault.jpg",
             "description": "Aprenda responsividade na prática com este tutorial sobre como transformar seu site num layout responsivo através do uso de ferramentas de desenvolvedor do seu navegador, o visual studio code e códigos CSS: media screen, container, propriedades CSS e mais."
         },
+
+        {
+            "id": 3,
+            "title": "Quais são as principais vantagens do Typescript?",
+            "category": "Front-End",
+            "url": "https://www.youtube.com/watch?v=snwevp02sIw",
+            "thumbnail": "https://img.youtube.com/vi/snwevp02sIw/maxresdefault.jpg",
+            "description": "Vamos conhecer o superset que potencializa ainda mais a produtividade de quem trabalha com JS. O Typescript! O ‪@DevSoutinho‬ contou pra gente os conceitos dessa ferramenta e quais as principais vantagens de usar o Typescript. E você, tem usado essa linguagem no seu dia a dia?"
+        },
         
         {
             "id": 4,
